@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-11-13 13:57:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2021-11-09 20:42:01 +0530"
@@ -158,6 +164,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-12 19:03:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2021-11-13 11:45:05 +0530"
     },
     "done": true
   },
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-11-13 13:57:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2021-11-12 18:57:33 +0530"
@@ -369,6 +387,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-11-09 20:47:53 +0530",
       "minecraft:forest": "2021-11-09 20:37:14 +0530",
+      "minecraft:deep_frozen_ocean": "2021-11-13 14:11:07 +0530",
       "minecraft:beach": "2021-11-09 20:39:58 +0530",
       "minecraft:river": "2021-11-09 20:38:39 +0530",
       "minecraft:wooded_hills": "2021-11-09 20:37:32 +0530"
@@ -414,6 +433,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2021-11-09 20:49:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2021-11-13 11:45:05 +0530"
     },
     "done": true
   },
@@ -561,6 +586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-11-13 13:57:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-11-12 19:03:30 +0530"
@@ -624,6 +655,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-11-09 20:41:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-11-13 13:57:15 +0530"
     },
     "done": true
   },
