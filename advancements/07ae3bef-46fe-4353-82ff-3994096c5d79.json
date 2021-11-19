@@ -972,6 +972,7 @@
       "minecraft:mountains": "2021-11-15 18:09:20 +0530",
       "minecraft:deep_cold_ocean": "2021-11-14 12:58:17 +0530",
       "minecraft:deep_frozen_ocean": "2021-11-13 14:11:07 +0530",
+      "minecraft:birch_forest": "2021-11-18 20:18:34 +0530",
       "minecraft:beach": "2021-11-09 20:39:58 +0530",
       "minecraft:river": "2021-11-09 20:38:39 +0530",
       "minecraft:wooded_hills": "2021-11-09 20:37:32 +0530",
@@ -1205,6 +1206,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-12 19:03:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-11-19 14:31:38 +0530"
     },
     "done": true
   },
